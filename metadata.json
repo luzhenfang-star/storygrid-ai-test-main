@@ -1,0 +1,7 @@
+{
+  "name": "StoryGrid AI - Pro Storyboard Generator",
+  "description": "Generate professional 3x3 grid storyboard prompts from reference images with AI-powered scene analysis and consistency controls.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
